@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  journal_title: MyString
+  journal_issn: MyString
+  rank: 1
+  year: 2014-12-08
+  article: 
+
+two:
+  journal_title: MyString
+  journal_issn: MyString
+  rank: 1
+  year: 2014-12-08
+  article: 
